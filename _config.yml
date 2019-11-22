@@ -20,7 +20,7 @@
 
 title: Pratham Oza
 academic_email: prathamo@vt.edu
-academic_email: rtx.ece.vt.edu
+general_email: rtx.ece.vt.edu
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
