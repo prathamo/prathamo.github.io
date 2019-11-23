@@ -21,7 +21,8 @@
 title: Pratham Oza
 academic_email: prathamo@vt.edu
 general_email: pratham.oza@gmail.com
-description: >- Pratham Oza | Ahmedabad - Manipal - Pune - Arlington # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until "baseurl:"
+  Pratham Oza | Ahmedabad - Manipal - Pune - Arlington
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
