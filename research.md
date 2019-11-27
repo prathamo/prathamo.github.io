@@ -11,7 +11,7 @@ Research Interests: Intelligent Transportation Systems, Real-Time Systems, Cyber
 		<b>A Real-Time Server Based Approach to Safe and Timely Intersection Crossings</b><br>
     <i><b>Pratham Oza</b>, Tam Chantem</i><br>
     IEEE RTCSA, 2019 -- <i>Best Paper Award</i><br>
-		<a href=""><div class="color-button">Xplore</div></a><a href="https://ieeexplore.ieee.org/document/8864584" target=_blank><div class="color-button">slides</div></a>
+		<a href="https://ieeexplore.ieee.org/document/8864584" target=_blank><div class="color-button">Xplore</div></a><a href=""><div class="color-button">slides</div></a>
 	</li><br>
 	<li>
 		<b>Disbanding Attack: Exploiting Human-in-the-loop Control in Vehicular Platooning</b><br>
