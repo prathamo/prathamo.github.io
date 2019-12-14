@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: Research
 ---
-Research Interests: Intelligent Transportation Systems, Real-Time Systems, Cyber Physical Systems 
+Research Interests: Real-time systems, Intelligent transportation systems, Cyber-physical systems
 
 <h2>Publications</h2>
 <ul>
@@ -22,7 +22,7 @@ Research Interests: Intelligent Transportation Systems, Real-Time Systems, Cyber
 	<li>
 		<b>Management of Anomalous Driving Behaviour</b><br>
     <i>Seyhan Ucar, Chinmaya Patnayak, <b>Pratham Oza</b>, Baik Hoh, Kentaro Oguchi</i><br>
-		IEEE VNC 2019<br>
+		IEEE VNC, 2019<br>
 		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a>
 	</li><br>
 </ul>
