@@ -26,7 +26,7 @@ Research Interests: Real-time systems, Intelligent transportation systems, Cyber
 		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a>
 	</li><br>
   <li>
-		<b>Secure Traffic Lights: Replay Attacj Detection for Model-based Smart Traffic Controllers</b><br>
+		<b>Secure Traffic Lights: Replay Attack Detection for Model-based Smart Traffic Controllers</b><br>
     <i><b>Pratham Oza</b>, Mahsa Foruhandeh, Ryan Gerdes, Tam Chantem</i><br>
 		IEEE VNC, 2019<br>
 		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a>
