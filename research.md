@@ -23,12 +23,12 @@ Research Interests: Real-time systems, Intelligent transportation systems, Cyber
 		<b>Management of Anomalous Driving Behaviour</b><br>
     <i>Seyhan Ucar, Chinmaya Patnayak, <b>Pratham Oza</b>, Baik Hoh, Kentaro Oguchi</i><br>
 		IEEE VNC, 2019<br>
-		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a>
+		<a href="https://ieeexplore.ieee.org/abstract/document/9062814"><div class="color-button">Paper</div></a>
 	</li><br>
   <li>
 		<b>Secure Traffic Lights: Replay Attack Detection for Model-based Smart Traffic Controllers</b><br>
     <i><b>Pratham Oza</b>, Mahsa Foruhandeh, Ryan Gerdes, Tam Chantem</i><br>
-		AutoSec (Workshop in conjunnction with ACM CodaSpy), 2020<br>
-		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a>
+		AutoSec (Workshop in conjunction with ACM CodaSpy), 2020<br>
+		<a href="https://dl.acm.org/doi/abs/10.1145/3375706.3380554"><div class="color-button">Paper</div></a>
 	</li><br>
 </ul>
