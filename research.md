@@ -40,11 +40,19 @@ Research Interests: Real-time systems, Intelligent transportation systems, Cyber
 <!--     <a href="https://filebox.ece.vt.edu/~prathamo/RTCSA_Presentation_PrathamOza.pptx"><div class="color-button">Slides</div></a> -->
 	</li><br>
     <li>
-		<b>TORR: Trustworthy On-Road Reputation System</b><br>
+		<b>CORR: Cooperative On-Road Reputation System</b><br>
       <i>Seyhan Ucar, Baik Hoh, <b>Prathan Oza</b>, Chinmaya Patnayak and Kentaro Oguchi</i><br>
-    IEEE IEEE CAVS, 2020<br>
+    IEEE CAVS, 2020<br>
 <!-- 		<a href="https://filebox.ece.vt.edu/~prathamo/RTCSA_2019.pdf"><div class="color-button">Paper</div></a> -->
-<!--     <a href="https://ieeexplore.ieee.org/abstract/document/9203582"><div class="color-button">Cite</div></a> -->
+    <a href="https://ieeexplore.ieee.org/document/9334679"><div class="color-button">Cite</div></a>
+<!--     <a href="https://filebox.ece.vt.edu/~prathamo/RTCSA_Presentation_PrathamOza.pptx"><div class="color-button">Slides</div></a> -->
+	</li><br>
+    <li>
+		<b>Timely and Non-Disruptive Response of Emergency Vehicles: A Real-Time Approach</b><br>
+      <i><b>Pratham Oza</b> and Tam Chantem</i><br>
+    IEEE RTNS, 2021<br>
+<!-- 		<a href="https://filebox.ece.vt.edu/~prathamo/RTCSA_2019.pdf"><div class="color-button">Paper</div></a> -->
+<!--     <a href="https://ieeexplore.ieee.org/document/9334679"><div class="color-button">Cite</div></a> -->
 <!--     <a href="https://filebox.ece.vt.edu/~prathamo/RTCSA_Presentation_PrathamOza.pptx"><div class="color-button">Slides</div></a> -->
 	</li><br>
 </ul>
