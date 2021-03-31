@@ -35,13 +35,13 @@ Research Interests: Real-time systems, Intelligent transportation systems, Cyber
 		<b>Secure Traffic Lights: Replay Attack Detection for Model-based Smart Traffic Controllers</b><br>
     <i><b>Pratham Oza</b>, Mahsa Foruhandeh, Ryan Gerdes, Tam Chantem</i><br>
 		AutoSec (Workshop in conjunction with ACM CodaSpy), 2020<br>
-    <a href="https://filebox.ece.vt.edu/~prathamo/autosec2020/paper.pdf"><div class="color-button">Paper</div></a><a href="https://dl.acm.org/doi/abs/10.1145/3375706.3380554"><div class="color-button">Cite</div></a><a href="https://filebox.ece.vt.edu/~prathamo/autosec2020/ppt.pptx">
+    <a href="https://filebox.ece.vt.edu/~prathamo/autosec2020/paper.pdf"><div class="color-button">Paper</div></a><a href="https://dl.acm.org/doi/abs/10.1145/3375706.3380554"><div class="color-button">Cite</div></a><a href="https://filebox.ece.vt.edu/~prathamo/autosec2020/ppt.pptx"></a>
 	</li><br>
   <li>
 		<b>A Coordinated Spillback-Aware Traffic Optimization and Recovery at Multiple Intersections</b><br>
     <i><b>Pratham Oza</b>, Tam Chantem and Pamela Murray-Tuite</i><br>
     IEEE RTCSA, 2020<br>
-        <a href="https://filebox.ece.vt.edu/~prathamo/rtcsa2020/paper.pdf"><div class="color-button">Paper</div></a><a href="https://ieeexplore.ieee.org/abstract/document/9203582"><div class="color-button">Cite</div></a><a href="https://filebox.ece.vt.edu/~prathamo/rtcsa2020/ppt.pptx">
+        <a href="https://filebox.ece.vt.edu/~prathamo/rtcsa2020/paper.pdf"><div class="color-button">Paper</div></a><a href="https://ieeexplore.ieee.org/abstract/document/9203582"><div class="color-button">Cite</div></a><a href="https://filebox.ece.vt.edu/~prathamo/rtcsa2020/ppt.pptx"></a>
 </li><br>
     <li>
 		<b>CORR: Cooperative On-Road Reputation System</b><br>
@@ -50,13 +50,5 @@ Research Interests: Real-time systems, Intelligent transportation systems, Cyber
 <!-- 		<a href="https://filebox.ece.vt.edu/~prathamo/RTCSA_2019.pdf"><div class="color-button">Paper</div></a> -->
     <a href="https://ieeexplore.ieee.org/document/9334679"><div class="color-button">Cite</div></a>
 <!--     <a href="https://filebox.ece.vt.edu/~prathamo/RTCSA_Presentation_PrathamOza.pptx"><div class="color-button">Slides</div></a> -->
-	</li><br>
-    <li>
-		<b>Timely and Non-Disruptive Response of Emergency Vehicles: A Real-Time Approach</b><br>
-      <i><b>Pratham Oza</b> and Tam Chantem</i><br>
-    IEEE RTNS, 2021<br>
-<!-- 		<a href="https://filebox.ece.vt.edu/~prathamo/RTCSA_2019.pdf"><div class="color-button">Paper</div></a> -->
-<!--     <a href="https://ieeexplore.ieee.org/document/9334679"><div class="color-button">Cite</div></a> -->
-<!--     <a href="https://filebox.ece.vt.edu/~prathamo/RTCSA_Presentation_PrathamOza.pptx"><div class="color-button">Slides</div></a> -->
-	</li><br>
+	</li>
 </ul>
