@@ -8,6 +8,13 @@ Research Interests: Real-time systems, Intelligent transportation systems, Cyber
 <h2>Publications</h2>
 <ul>
   <li>
+		<b>A Traffic Infrastructure-Enabled Task Scheduling in Vehicular Edge Computing Networks</b><br>
+    <i><b>Pratham Oza</b>, Tam Chantem</i><br>
+    JRWRTC, 2021<br>
+		<a href="https://filebox.ece.vt.edu/~prathamo/jrwrtc2021/paper.pdf"><div class="color-button">Paper</div></a><a href="https://ieeexplore.ieee.org/document/8864584"><div class="color-button">Cite</div></a><a href="https://filebox.ece.vt.edu/~prathamo/jrwrtc2021/ppt.pptx"><div class="color-button">Slides</div></a>
+	</li><br>
+
+<li>
 		<b>A Timely and Non-Disruptive Response of Emergency Vehicles: A Real-Time Approach</b><br>
     <i><b>Pratham Oza</b>, Tam Chantem</i><br>
     IEEE RTNS, 2021<br>
