@@ -23,7 +23,7 @@ Research Interests: Real-time systems, Intelligent transportation systems, Cyber
 		<b>Disbanding Attack: Exploiting Human-in-the-loop Control in Vehicular Platooning</b><br>
     <i>Ali Al-Hashimi, <b>Pratham Oza</b>, Ryan Gerdes, Tam Chantem</i><br>
 		SecureComm, 2019<br>
-		<a href=""https://filebox.ece.vt.edu/~prathamo/securecomm2019/paper.pdf""><div class="color-button">Paper</div></a><a href="https://link.springer.com/chapter/10.1007/978-3-030-37231-6_9"><div class="color-button">Cite</div></a>
+		<a href="https://filebox.ece.vt.edu/~prathamo/securecomm2019/paper.pdf"><div class="color-button">Paper</div></a><a href="https://link.springer.com/chapter/10.1007/978-3-030-37231-6_9"><div class="color-button">Cite</div></a>
 	</li><br>
 	<li>
 		<b>Management of Anomalous Driving Behaviour</b><br>
